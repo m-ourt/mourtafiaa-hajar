@@ -1,5 +1,5 @@
 # mourtafiaa-hajar
-[![](https://github.com/hajarmourtafiaa/hajarmourtafiaa/blob/main/assets/hajar.gif)](https://github.com/hajarmourtafiaa)
+[![](https://github.com/hajarmourtafiaa/hajarmourtafiaa/blob/main/assets/HajarMourtafiaa.gif)](https://github.com/hajarmourtafiaa)
 
 # 👩‍💻 Hajar Mourtafiaa  
 
